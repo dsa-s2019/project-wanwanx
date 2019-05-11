@@ -1,0 +1,698 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.1.22)  10 MAY 2019 21:34
+entering extended mode
+**./final_draft.tex
+(final_draft.tex
+LaTeX2e <2016/03/31> patch level 3
+Babel <3.9r> and hyphenation patterns for 76 language(s) loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size11.clo"
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count87
+\Gm@cntv=\count88
+\c@Gm@tempcnt=\count89
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2016/07/10 v1.0t Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2016/07/10 v0.06j Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count90
+))
+\Gin@req@height=\dimen111
+\Gin@req@width=\dimen112
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption.sty"
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption3.sty"
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen113
+\captionmargin@=\dimen114
+\captionwidth=\dimen115
+\caption@tempdima=\dimen116
+\caption@indent=\dimen117
+\caption@parindent=\dimen118
+\caption@hangindent=\dimen119
+)
+\c@ContinuedFloat=\count91
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\subcaption.sty"
+Package: subcaption 2016/05/22 v1.1-161 Sub-captions (AR)
+\c@subfigure=\count92
+\c@subtable=\count93
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count94
+\float@exts=\toks16
+\float@box=\box26
+\@float@everytoks=\toks17
+\@floatcapt=\box27
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks18
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2016/06/28 v2.15d AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen120
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen121
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count95
+LaTeX Info: Redefining \frac on input line 199.
+\uproot@=\count96
+\leftroot@=\count97
+LaTeX Info: Redefining \overline on input line 297.
+\classnum@=\count98
+\DOTSCASE@=\count99
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
+\Mathstrutbox@=\box28
+\strutbox@=\box29
+\big@size=\dimen122
+LaTeX Font Info:    Redeclaring font encoding OML on input line 634.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
+\macc@depth=\count100
+\c@MaxMatrixCols=\count101
+\dotsspace@=\muskip10
+\c@parentequation=\count102
+\dspbrk@lvl=\count103
+\tag@help=\toks20
+\row@=\count104
+\column@=\count105
+\maxfields@=\count106
+\andhelp@=\toks21
+\eqnshift@=\dimen123
+\alignsep@=\dimen124
+\tagshift@=\dimen125
+\tagwidth@=\dimen126
+\totwidth@=\dimen127
+\lineht@=\dimen128
+\@envbody=\toks22
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2739.
+LaTeX Info: Redefining \] on input line 2740.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\preprint\authblk.sty"
+Package: authblk 2001/02/27 1.3 (PWD)
+\affilsep=\skip46
+\@affilsep=\skip47
+\c@Maxaffil=\count107
+\c@authors=\count108
+\c@affil=\count109
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\bm.sty"
+Package: bm 2016/07/07 v1.2b Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup6
+\symboldletters=\mathgroup7
+\symboldsymbols=\mathgroup8
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 142.
+LaTeX Info: Redefining \bm on input line 208.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\booktabs\booktabs.sty"
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen129
+\lightrulewidth=\dimen130
+\cmidrulewidth=\dimen131
+\belowrulesep=\dimen132
+\belowbottomsep=\dimen133
+\aboverulesep=\dimen134
+\abovetopsep=\dimen135
+\cmidrulesep=\dimen136
+\cmidrulekern=\dimen137
+\defaultaddspace=\dimen138
+\@cmidla=\count110
+\@cmidlb=\count111
+\@aboverulesep=\dimen139
+\@belowrulesep=\dimen140
+\@thisruleclass=\count112
+\@lastruleclass=\count113
+\@thisrulewidth=\dimen141
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\setspace\setspace.sty"
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\multirow\multirow.sty"
+Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
+\multirow@colwidth=\skip48
+\multirow@cntb=\count114
+\multirow@dima=\skip49
+\bigstrutjot=\dimen142
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\verbatim.sty"
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks24
+\verbatim@line=\toks25
+\verbatim@in@stream=\read1
+)
+runsystem(texcount -tex -sum final_draft.tex > final_draft.wordcount.tex)...dis
+abled (restricted).
+
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\mathpartir\mathpartir.sty"
+Package: mathpartir 2016/02/24 version 1.3.2 Math Paragraph for Typesetting Inf
+erence Rules
+\mpr@andskip=\skip50
+\mpr@lista=\toks26
+\mpr@listb=\toks27
+\mpr@hlist=\box30
+\mpr@vlist=\box31
+\mpr@right=\box32
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty"
+Package: etoolbox 2017/01/02 v2.4 e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count115
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\pifont.sty"
+Package: pifont 2005/04/12 PSNFSS-v9.2a Pi font support (SPQR) 
+LaTeX Font Info:    Try loading font information for U+pzd on input line 63.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\upzd.fd"
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Try loading font information for U+psy on input line 64.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\upsy.fd"
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+)) (final_draft.aux)
+\openout1 = `final_draft.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(54.2025pt, 489.10287pt, 54.2025pt)
+* v-part:(T,H,B)=(72.26999pt, 725.8018pt, 46.97505pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=489.10287pt
+* \textheight=725.8018pt
+* \oddsidemargin=-18.06749pt
+* \evensidemargin=-18.06749pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=59.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count116
+\scratchdimen=\dimen143
+\scratchbox=\box33
+\nofMPsegments=\count117
+\nofMParguments=\count118
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count119
+\MPscratchDim=\dimen144
+\MPnumerator=\count120
+\makeMPintoPDFobject=\count121
+\everyMPtoPDFconversion=\toks29
+) ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Try loading font information for U+msa on input line 83.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 83.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 94.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 94.
+ [1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 99.
+
+Package epstopdf Info: Source file: <../plot/obs_freq.eps>
+(epstopdf)                    date: 2019-03-24 01:32:25
+(epstopdf)                    size: 15308 bytes
+(epstopdf)             Output file: <../plot/obs_freq-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-03-24 01:32:31
+(epstopdf)                    size: 8455 bytes
+(epstopdf)             Command: <epstopdf --outfile=../plot/obs_freq-eps-conver
+ted-to.pdf ../plot/obs_freq.eps>
+(epstopdf)             \includegraphics on input line 102.
+Package epstopdf Info: Output file is already uptodate.
+<../plot/obs_freq-eps-converted-to.pdf, id=15, 360.34625pt x 309.155pt>
+File: ../plot/obs_freq-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ../plot/obs_freq-eps-converted-to.pdf>
+Package pdftex.def Info: ../plot/obs_freq-eps-converted-to.pdf used on input li
+ne 102.
+(pdftex.def)             Requested size: 244.55144pt x 209.80748pt.
+Package epstopdf Info: Source file: <../plot/var_freq.eps>
+(epstopdf)                    date: 2019-03-24 01:32:26
+(epstopdf)                    size: 16540 bytes
+(epstopdf)             Output file: <../plot/var_freq-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-03-24 01:32:33
+(epstopdf)                    size: 8472 bytes
+(epstopdf)             Command: <epstopdf --outfile=../plot/var_freq-eps-conver
+ted-to.pdf ../plot/var_freq.eps>
+(epstopdf)             \includegraphics on input line 107.
+Package epstopdf Info: Output file is already uptodate.
+
+<../plot/var_freq-eps-converted-to.pdf, id=16, 360.34625pt x 309.155pt>
+File: ../plot/var_freq-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ../plot/var_freq-eps-converted-to.pdf>
+Package pdftex.def Info: ../plot/var_freq-eps-converted-to.pdf used on input li
+ne 107.
+(pdftex.def)             Requested size: 244.55144pt x 209.80748pt.
+ [2 <../plot/obs_freq-eps-converted-to.pdf> <../plot/var_freq-eps-converted-to.
+pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 162--164
+\OT1/cmr/m/n/10.95 while CAL use the prop-erty: $\OML/cmm/m/it/10.95 E\OT1/cmr/
+m/n/10.95 [[]] =
+ []
+
+
+Overfull \hbox (12.91463pt too wide) in paragraph at lines 178--179
+ [][] 
+ []
+
+<../plot/lasso_outcome.png, id=33, 289.08pt x 216.81pt>
+File: ../plot/lasso_outcome.png Graphic file (type png)
+
+<use ../plot/lasso_outcome.png>
+Package pdftex.def Info: ../plot/lasso_outcome.png used on input line 187.
+(pdftex.def)             Requested size: 117.38737pt x 88.03914pt.
+
+<../plot/lasso_pscore.png, id=34, 289.08pt x 216.81pt>
+File: ../plot/lasso_pscore.png Graphic file (type png)
+
+<use ../plot/lasso_pscore.png>
+Package pdftex.def Info: ../plot/lasso_pscore.png used on input line 193.
+(pdftex.def)             Requested size: 117.38737pt x 88.03914pt.
+
+<../plot/high_lasso_outcome.png, id=35, 289.08pt x 216.81pt>
+File: ../plot/high_lasso_outcome.png Graphic file (type png)
+
+<use ../plot/high_lasso_outcome.png>
+Package pdftex.def Info: ../plot/high_lasso_outcome.png used on input line 198.
+
+(pdftex.def)             Requested size: 117.38737pt x 88.03914pt.
+
+<../plot/high_lasso_pscore.png, id=36, 289.08pt x 216.81pt>
+File: ../plot/high_lasso_pscore.png Graphic file (type png)
+
+<use ../plot/high_lasso_pscore.png>
+Package pdftex.def Info: ../plot/high_lasso_pscore.png used on input line 204.
+(pdftex.def)             Requested size: 117.38737pt x 88.03914pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[3] <../plot/method_comparison_1.png, id=47, 361.35pt x 216.81pt>
+File: ../plot/method_comparison_1.png Graphic file (type png)
+
+<use ../plot/method_comparison_1.png>
+Package pdftex.def Info: ../plot/method_comparison_1.png used on input line 228
+.
+(pdftex.def)             Requested size: 117.38737pt x 70.43263pt.
+
+<../plot/method_comparison_2.png, id=48, 361.35pt x 216.81pt>
+File: ../plot/method_comparison_2.png Graphic file (type png)
+
+<use ../plot/method_comparison_2.png>
+Package pdftex.def Info: ../plot/method_comparison_2.png used on input line 234
+.
+(pdftex.def)             Requested size: 117.38737pt x 70.43263pt.
+
+<../plot/method_comparison_3.png, id=49, 361.35pt x 216.81pt>
+File: ../plot/method_comparison_3.png Graphic file (type png)
+
+<use ../plot/method_comparison_3.png>
+Package pdftex.def Info: ../plot/method_comparison_3.png used on input line 239
+.
+(pdftex.def)             Requested size: 117.38737pt x 70.43263pt.
+
+<../plot/method_comparison_4.png, id=50, 361.35pt x 216.81pt>
+File: ../plot/method_comparison_4.png Graphic file (type png)
+
+<use ../plot/method_comparison_4.png>
+Package pdftex.def Info: ../plot/method_comparison_4.png used on input line 245
+.
+(pdftex.def)             Requested size: 117.38737pt x 70.43263pt.
+
+<../plot/method_comparison_5.png, id=51, 361.35pt x 216.81pt>
+File: ../plot/method_comparison_5.png Graphic file (type png)
+
+<use ../plot/method_comparison_5.png>
+Package pdftex.def Info: ../plot/method_comparison_5.png used on input line 250
+.
+(pdftex.def)             Requested size: 117.38737pt x 70.43263pt.
+
+<../plot/method_comparison_6.png, id=52, 361.35pt x 216.81pt>
+File: ../plot/method_comparison_6.png Graphic file (type png)
+
+<use ../plot/method_comparison_6.png>
+Package pdftex.def Info: ../plot/method_comparison_6.png used on input line 256
+.
+(pdftex.def)             Requested size: 117.38737pt x 70.43263pt.
+
+<../plot/method_comparison_7.png, id=53, 361.35pt x 216.81pt>
+File: ../plot/method_comparison_7.png Graphic file (type png)
+
+<use ../plot/method_comparison_7.png>
+Package pdftex.def Info: ../plot/method_comparison_7.png used on input line 261
+.
+(pdftex.def)             Requested size: 117.38737pt x 70.43263pt.
+
+<../plot/method_comparison_8.png, id=54, 361.35pt x 216.81pt>
+File: ../plot/method_comparison_8.png Graphic file (type png)
+
+<use ../plot/method_comparison_8.png>
+Package pdftex.def Info: ../plot/method_comparison_8.png used on input line 267
+.
+(pdftex.def)             Requested size: 117.38737pt x 70.43263pt.
+
+<../plot/method_comparison_high_1.png, id=55, 361.35pt x 216.81pt>
+File: ../plot/method_comparison_high_1.png Graphic file (type png)
+
+<use ../plot/method_comparison_high_1.png>
+Package pdftex.def Info: ../plot/method_comparison_high_1.png used on input lin
+e 277.
+(pdftex.def)             Requested size: 117.38737pt x 70.43263pt.
+
+<../plot/method_comparison_high_2.png, id=56, 361.35pt x 216.81pt>
+File: ../plot/method_comparison_high_2.png Graphic file (type png)
+
+<use ../plot/method_comparison_high_2.png>
+Package pdftex.def Info: ../plot/method_comparison_high_2.png used on input lin
+e 283.
+(pdftex.def)             Requested size: 117.38737pt x 70.43263pt.
+
+<../plot/method_comparison_high_3.png, id=57, 361.35pt x 216.81pt>
+File: ../plot/method_comparison_high_3.png Graphic file (type png)
+
+<use ../plot/method_comparison_high_3.png>
+Package pdftex.def Info: ../plot/method_comparison_high_3.png used on input lin
+e 288.
+(pdftex.def)             Requested size: 117.38737pt x 70.43263pt.
+
+<../plot/method_comparison_high_4.png, id=58, 361.35pt x 216.81pt>
+File: ../plot/method_comparison_high_4.png Graphic file (type png)
+
+<use ../plot/method_comparison_high_4.png>
+Package pdftex.def Info: ../plot/method_comparison_high_4.png used on input lin
+e 294.
+(pdftex.def)             Requested size: 117.38737pt x 70.43263pt.
+
+<../plot/method_comparison_high_5.png, id=59, 361.35pt x 216.81pt>
+File: ../plot/method_comparison_high_5.png Graphic file (type png)
+
+<use ../plot/method_comparison_high_5.png>
+Package pdftex.def Info: ../plot/method_comparison_high_5.png used on input lin
+e 299.
+(pdftex.def)             Requested size: 117.38737pt x 70.43263pt.
+
+<../plot/method_comparison_high_6.png, id=60, 361.35pt x 216.81pt>
+File: ../plot/method_comparison_high_6.png Graphic file (type png)
+
+<use ../plot/method_comparison_high_6.png>
+Package pdftex.def Info: ../plot/method_comparison_high_6.png used on input lin
+e 305.
+(pdftex.def)             Requested size: 117.38737pt x 70.43263pt.
+
+<../plot/method_comparison_high_7.png, id=61, 361.35pt x 216.81pt>
+File: ../plot/method_comparison_high_7.png Graphic file (type png)
+
+<use ../plot/method_comparison_high_7.png>
+Package pdftex.def Info: ../plot/method_comparison_high_7.png used on input lin
+e 310.
+(pdftex.def)             Requested size: 117.38737pt x 70.43263pt.
+
+<../plot/method_comparison_high_8.png, id=62, 361.35pt x 216.81pt>
+File: ../plot/method_comparison_high_8.png Graphic file (type png)
+
+<use ../plot/method_comparison_high_8.png>
+Package pdftex.def Info: ../plot/method_comparison_high_8.png used on input lin
+e 316.
+(pdftex.def)             Requested size: 117.38737pt x 70.43263pt.
+
+
+Package caption Warning: \label without proper reference on input line 329.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `tab:summarylow' on page  undefined on input line 323.
+
+
+
+Overfull \hbox (5.75537pt too wide) in paragraph at lines 343--344
+ [][] 
+ []
+
+<../plot/comparison_diffcut.jpg, id=63, 495.7722pt x 286.9119pt>
+File: ../plot/comparison_diffcut.jpg Graphic file (type jpg)
+
+<use ../plot/comparison_diffcut.jpg>
+Package pdftex.def Info: ../plot/comparison_diffcut.jpg used on input line 348.
+
+(pdftex.def)             Requested size: 244.54938pt x 113.8127pt.
+ [4 <../plot/lasso_outcome.png> <../plot/lasso_pscore.png> <../plot/high_lasso_
+outcome.png> <../plot/high_lasso_pscore.png> <../plot/method_comparison_1.png> 
+<../plot/method_comparison_2.png> <../plot/method_comparison_3.png> <../plot/me
+thod_comparison_4.png> <../plot/method_comparison_5.png> <../plot/method_compar
+ison_6.png> <../plot/method_comparison_7.png> <../plot/method_comparison_8.png>
+]
+<../plot/cluster_full.png, id=79, 433.62pt x 433.62pt>
+File: ../plot/cluster_full.png Graphic file (type png)
+
+<use ../plot/cluster_full.png>
+Package pdftex.def Info: ../plot/cluster_full.png used on input line 361.
+(pdftex.def)             Requested size: 234.76729pt x 234.76665pt.
+
+<../plot/cluster_CAL.png, id=80, 433.62pt x 433.62pt>
+File: ../plot/cluster_CAL.png Graphic file (type png)
+
+<use ../plot/cluster_CAL.png>
+Package pdftex.def Info: ../plot/cluster_CAL.png used on input line 362.
+(pdftex.def)             Requested size: 234.76729pt x 234.76665pt.
+ [5 <../plot/method_comparison_high_1.png> <../plot/method_comparison_high_2.pn
+g> <../plot/method_comparison_high_3.png> <../plot/method_comparison_high_4.png
+> <../plot/method_comparison_high_5.png> <../plot/method_comparison_high_6.png>
+ <../plot/method_comparison_high_7.png> <../plot/method_comparison_high_8.png> 
+<../plot/comparison_diffcut.jpg>]
+<../plot/cluster_uni.jpg, id=92, 357.58594pt x 203.25937pt>
+File: ../plot/cluster_uni.jpg Graphic file (type jpg)
+
+<use ../plot/cluster_uni.jpg>
+Package pdftex.def Info: ../plot/cluster_uni.jpg used on input line 369.
+(pdftex.def)             Requested size: 317.91388pt x 180.71727pt.
+
+Overfull \hbox (0.44234pt too wide) in paragraph at lines 366--373
+[]\OT1/cmr/m/n/10 Without spec-i-fy-ing the clus-ter num-ber, there were 27 clu
+s-ters de-tected, 14 was iden-ti-fied for both LASSO[]CAL
+ []
+
+[6 <../plot/cluster_full.png (PNG copy)> <../plot/cluster_CAL.png> <../plot/clu
+ster_uni.jpg>]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ê in font cmr10!
+ [7] (final_draft.aux)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 5117 strings out of 493329
+ 75655 string characters out of 3139060
+ 157323 words of memory out of 3000000
+ 8499 multiletter control sequences out of 15000+200000
+ 18418 words of font info for 67 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 40i,20n,39p,1232b,456s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx7.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Program Files/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmmi5.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmm
+i7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C
+:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program
+ Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmsy7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.
+pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb
+><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/zapfding/uzdr.pfb>
+Output written on final_draft.pdf (7 pages, 1043472 bytes).
+PDF statistics:
+ 163 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 131 words of extra memory for PDF output out of 10000 (max. 10000000)
+
